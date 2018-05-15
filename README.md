@@ -6,5 +6,5 @@ npm i webpack webpack-cli -g </br>
 npm i </br>
 npm start
 
-kyky
+
 
